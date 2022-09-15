@@ -1,3 +1,3 @@
-package com.example.recyclerview20
+package com.example.ktwishlist
 
 class UserData(var name: String, var url: String, var price: String)
